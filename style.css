@@ -1,0 +1,72 @@
+*{
+    margin: 1;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: grey;
+    width:100%;
+    height: 70px;
+    position: relative;
+}
+.nav{
+    background-color: rgb(70, 69, 69);
+    margin-top: 1px;
+    width: 99%;
+    height: 25px;
+    position: absolute;
+    right: 2px;
+    padding-left: 83%;
+}
+h1{
+    background-color: rgb(70, 69, 69);
+    margin-top: 0px;
+    justify-content: flex-start;
+    font-size: 18px;
+    width: 80%;
+    height: 25px;
+    position: absolute;
+    right: 278px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+}
+#logo{
+    /*background-color: greenyellow;*/
+    font-size: xx-large;
+    width: 4%;
+    height: 60%;
+    position: absolute;
+    top: 25px;
+    left: 45px;
+    margin-bottom: 20px;
+    
+    
+}
+
+#nav_links{
+    /*background-color: rgb(47, 155, 65);*/
+    margin-top: 10px;
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    font-size: 25px;
+    padding: 3px;
+    top: 15px;
+    margin-left: 40%;
+}
+b{
+    padding: 3px;
+}
+h4{
+    position: absolute;
+    left: 15%;
+    margin-top: 3%;
+}
+i{
+    padding-right: 15px;
+    margin-top: 4px;
+}
